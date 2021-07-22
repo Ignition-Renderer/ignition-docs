@@ -15,7 +15,7 @@ For downloads and more general information about the renderer visit [ignitionren
 
 You can download the latest version of the renderer as a zip file from [the downloads page.](https://lavaframe.com/download/)
 
-After extracting the zip file you must choose between the NVIDIA/Universal version of the of the Renderer or the AMD version. 
+After extracting the zip file you must choose between the NVIDIA/Universal version of the Renderer or the AMD version. 
 If you are on an Intel or NVIDIA based GPU you should use the NVIDIA version, if you are on an AMD based platform however you must use the AMD version. 
 They are currently not cross-compatible.
 
